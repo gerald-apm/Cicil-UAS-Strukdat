@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tes input", "Tes input\Tes input.csproj", "{FE7EFB3A-C216-4A60-99FD-1B0060E2CA97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cicil UAS Fix Gerald", "Cicil UAS Fix Gerald\Cicil UAS Fix Gerald.csproj", "{3021BE58-53B0-489C-92F8-F2B743D008EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7EFB3A-C216-4A60-99FD-1B0060E2CA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7EFB3A-C216-4A60-99FD-1B0060E2CA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7EFB3A-C216-4A60-99FD-1B0060E2CA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7EFB3A-C216-4A60-99FD-1B0060E2CA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3021BE58-53B0-489C-92F8-F2B743D008EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3021BE58-53B0-489C-92F8-F2B743D008EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3021BE58-53B0-489C-92F8-F2B743D008EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3021BE58-53B0-489C-92F8-F2B743D008EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907B3158-EA49-4498-BDA1-0344C812A91F}
+	EndGlobalSection
+EndGlobal
